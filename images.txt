@@ -10,3 +10,4 @@ jxxghp/moviepilot
 amilys/embyserver:4.9.0.25
 amilys/embyserver:beta
 amilys/embyserver:latest
+linuxserver/qbittorrent
