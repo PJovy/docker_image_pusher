@@ -7,3 +7,6 @@ lscr.io/linuxserver/qbittorrent:amd64-version-14.3.8.99202110120741-7429-1bae770
 superng6/qbittorrent
 superng6/qbittorrentee
 jxxghp/moviepilot
+amilys/embyserver:4.9.0.25
+amilys/embyserver:beta
+amilys/embyserver:latest
