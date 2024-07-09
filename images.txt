@@ -11,3 +11,5 @@ amilys/embyserver:4.9.0.25
 amilys/embyserver:beta
 amilys/embyserver:latest
 linuxserver/qbittorrent
+#映射硬解驱动
+lovechen/embyserver
