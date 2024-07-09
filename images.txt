@@ -14,3 +14,5 @@ linuxserver/qbittorrent
 #映射硬解驱动
 lovechen/embyserver
 metatube/metatube-server
+dreamacro/clash
+haishanh/yacd
