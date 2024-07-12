@@ -17,3 +17,4 @@ metatube/metatube-server
 dreamacro/clash
 haishanh/yacd
 iyuucn/iyuuplus-dev:latest
+linyuan0213/nas-tools:latest
