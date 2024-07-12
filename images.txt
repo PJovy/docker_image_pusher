@@ -16,3 +16,4 @@ lovechen/embyserver
 metatube/metatube-server
 dreamacro/clash
 haishanh/yacd
+iyuucn/iyuuplus-dev:latest
