@@ -18,4 +18,5 @@ dreamacro/clash
 haishanh/yacd
 iyuucn/iyuuplus-dev:latest
 linyuan0213/nas-tools:latest
+linyuan0213/nas-tools:latest-beta
 kuingsmile/piclist:latest
