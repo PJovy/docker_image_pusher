@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
+  schedule:
+    - cron: '0 19 * * *'  
+  # 这对应于 UTC 时间每天 19:00，即北京时间凌晨 3:00
 
 
 env:
